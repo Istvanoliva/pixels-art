@@ -1,3 +1,5 @@
+<p>O projeto foi desenvolvido por <a href="https://github.com/Istvanoliva">Istvan Oliva</a> enquanto estudava na <a href="https://www.betrybe.com/">Trybe</a> :rocket:</p>
+
 
 # O que deverá ser desenvolvido
 
